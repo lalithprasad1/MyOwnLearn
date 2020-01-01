@@ -22,17 +22,21 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<distributionManagement>
- <repository>
-  <id>extrac-release</id>
-  <name>extracit-release</name>
-  <url>http://localhost:8081/repository/extracit-release/</url>
- </repository>
-<snapshotRepository>
-  <id>extrac-snapshot</id>
-  <name>ExtracIT</name>
-  <url>http://localhost:8081/repository/ExtracIT/</url>
- </snapshotRepository>
-</distributionManagement>
+
+
+  <distributionManagement>
+     <snapshotRepository>
+      <id>extracit-snapshot</id>
+      <name>EXTRACIT</name>
+      <url>http://localhost:8081/repository/EXTRACIT/</url>
+    </snapshotRepository>
+    <repository>
+      <id>extracit-release</id>
+      <name>EXTRACIT-RELEASE</name>
+      <url>http://localhost:8081/repository/EXTRACIT-RELEASE/</url>
+    </repository>
+  </distributionManagement>
+
+
 
 </project>
