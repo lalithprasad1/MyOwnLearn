@@ -2,15 +2,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.orrbasystems</groupId>
-  <artifactId>october</artifactId>
+  <artifactId>december</artifactId>
   <packaging>jar</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
 
   <name>october</name>
   <url>http://maven.apache.org</url>
 <scm>
-<developerConnection>scm:git:git@github.com:ExtracIT/December.git</developerConnection>
-<url>git:git:git@github.com:ExtracIT/December.git</url>
+<developerConnection>scm:git:git@github.com:lalithprasad12/MyOwnLearn.git</developerConnection>
+<url>git:git:git@github.com:lalithprasad12/MyOwnLearn.git</url>
   <tag>HEAD</tag>
   </scm>
 
