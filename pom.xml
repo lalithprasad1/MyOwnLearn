@@ -4,14 +4,14 @@
   <groupId>com.orrbasystems</groupId>
   <artifactId>december</artifactId>
   <packaging>jar</packaging>
-  <version>10</version>
+  <version>11-SNAPSHOT</version>
 
   <name>December</name>
   <url>http://maven.apache.org</url>
 <scm>
 <developerConnection>scm:git:git@github.com:lalithprasad12/MyOwnLearn.git</developerConnection>
 <url>git:git:git@github.com:lalithprasad12/MyOwnLearn.git</url>
-  <tag>december-10</tag>
+  <tag>HEAD</tag>
   </scm>
 
   <dependencies>
